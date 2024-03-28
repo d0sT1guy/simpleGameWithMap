@@ -1,0 +1,7 @@
+C:\Users\admin\source\sakutinfastcoursesharp\walkingrogue\bin\Debug\walkingrogue.exe.config
+C:\Users\admin\source\sakutinfastcoursesharp\walkingrogue\bin\Debug\walkingrogue.exe
+C:\Users\admin\source\sakutinfastcoursesharp\walkingrogue\bin\Debug\walkingrogue.pdb
+C:\Users\admin\source\sakutinfastcoursesharp\walkingrogue\obj\Debug\walkingrogue.csproj.AssemblyReference.cache
+C:\Users\admin\source\sakutinfastcoursesharp\walkingrogue\obj\Debug\walkingrogue.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\sakutinfastcoursesharp\walkingrogue\obj\Debug\walkingrogue.exe
+C:\Users\admin\source\sakutinfastcoursesharp\walkingrogue\obj\Debug\walkingrogue.pdb
